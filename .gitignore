@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.env
+
+# Banco de dados local
+neo_database.db
+
+# Relatórios gerados
+reports/*.csv
+
+# Sistema
+.DS_Store
